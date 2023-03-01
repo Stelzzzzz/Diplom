@@ -24,6 +24,10 @@
 	};
 
 
+
+
+
+	
 	var mobileMenuOutsideClick = function() {
 
 		$(document).click(function (e) {
